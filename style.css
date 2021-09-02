@@ -1,0 +1,19 @@
+body {
+background-color:white;
+}
+h1 {
+	font-size:45;
+}
+div {
+	background-color:darkgrey;
+	font-size:25;
+	font-family:sans-serif;
+}
+p {
+	background-color: white;
+	color:black;
+	font-size: 18;
+}
+button {
+	font-size: 20;
+}
